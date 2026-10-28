@@ -3,7 +3,7 @@ Website portofolio pribadi yang saya buat di Kelas Industri UBIG
 (Paket 1, Minggu 01 sampai 05).
 Website ini tampil rapi di ponsel, tablet, dan laptop.
 ## Tampilan
-![Tampilan beranda portofolio](img/tampilan-portofolio.png)
+![Tampilan beranda portofolio](<img width="287" height="350" alt="Screenshot 2026-10-28 191151" src="https://github.com/user-attachments/assets/4a2556e1-1679-47f1-98e7-58245ae17f6c" />)
 ## Fitur
 - Halaman **Beranda** berisi profil, hobi, cita-cita, keahlian, dan
 jadwal belajar
@@ -17,4 +17,3 @@ jadwal belajar
 ## Tautan
 - Website: menyusul setelah *deploy* ke Vercel
 - Dibuat oleh: Khazby Raditya Pratama, SMKN 1 Pasuruan
-<img width="287" height="350" alt="Screenshot 2026-10-28 191151" src="https://github.com/user-attachments/assets/4a2556e1-1679-47f1-98e7-58245ae17f6c" />
